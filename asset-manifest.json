@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/excuses/static/css/main.adc3f6c5.css",
+    "main.js": "/excuses/static/js/main.adb8f46a.js",
+    "index.html": "/excuses/index.html",
+    "main.adc3f6c5.css.map": "/excuses/static/css/main.adc3f6c5.css.map",
+    "main.adb8f46a.js.map": "/excuses/static/js/main.adb8f46a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adc3f6c5.css",
+    "static/js/main.adb8f46a.js"
+  ]
+}
